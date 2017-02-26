@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb

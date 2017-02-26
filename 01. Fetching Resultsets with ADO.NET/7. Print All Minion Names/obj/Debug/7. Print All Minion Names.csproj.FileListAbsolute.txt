@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\7. Print All Minion Names\bin\Debug\_7.Print_All_Minion_Names.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\7. Print All Minion Names\bin\Debug\_7.Print_All_Minion_Names.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\7. Print All Minion Names\bin\Debug\_7.Print_All_Minion_Names.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\7. Print All Minion Names\obj\Debug\_7.Print_All_Minion_Names.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\7. Print All Minion Names\obj\Debug\_7.Print_All_Minion_Names.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\7. Print All Minion Names\obj\Debug\7. Print All Minion Names.csprojResolveAssemblyReference.cache

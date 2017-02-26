@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\8. Increase Minions Age\bin\Debug\_8.Increase_Minions_Age.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\8. Increase Minions Age\bin\Debug\_8.Increase_Minions_Age.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\8. Increase Minions Age\bin\Debug\_8.Increase_Minions_Age.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\8. Increase Minions Age\obj\Debug\8. Increase Minions Age.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\8. Increase Minions Age\obj\Debug\_8.Increase_Minions_Age.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\8. Increase Minions Age\obj\Debug\_8.Increase_Minions_Age.pdb

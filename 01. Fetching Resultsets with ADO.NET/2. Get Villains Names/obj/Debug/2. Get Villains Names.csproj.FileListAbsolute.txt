@@ -1,0 +1,6 @@
+c:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\2. Get Villains Names\bin\Debug\_2.Get_Villains_Names.exe.config
+c:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\2. Get Villains Names\bin\Debug\_2.Get_Villains_Names.exe
+c:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\2. Get Villains Names\bin\Debug\_2.Get_Villains_Names.pdb
+c:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\2. Get Villains Names\obj\Debug\2. Get Villains Names.csprojResolveAssemblyReference.cache
+c:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\2. Get Villains Names\obj\Debug\_2.Get_Villains_Names.exe
+c:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\2. Get Villains Names\obj\Debug\_2.Get_Villains_Names.pdb

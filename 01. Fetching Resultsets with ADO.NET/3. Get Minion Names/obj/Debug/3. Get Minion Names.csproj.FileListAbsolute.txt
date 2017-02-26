@@ -1,0 +1,6 @@
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\3. Get Minion Names\bin\Debug\_3.Get_Minion_Names.exe.config
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\3. Get Minion Names\bin\Debug\_3.Get_Minion_Names.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\3. Get Minion Names\bin\Debug\_3.Get_Minion_Names.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\3. Get Minion Names\obj\Debug\3. Get Minion Names.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\3. Get Minion Names\obj\Debug\_3.Get_Minion_Names.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\3. Get Minion Names\obj\Debug\_3.Get_Minion_Names.pdb

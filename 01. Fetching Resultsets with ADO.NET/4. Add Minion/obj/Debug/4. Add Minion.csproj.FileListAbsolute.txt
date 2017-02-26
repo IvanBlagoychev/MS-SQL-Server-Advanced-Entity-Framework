@@ -1,0 +1,6 @@
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\AdoDemo\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\4. Add Minion\obj\Debug\_4.Add_Minion.pdb

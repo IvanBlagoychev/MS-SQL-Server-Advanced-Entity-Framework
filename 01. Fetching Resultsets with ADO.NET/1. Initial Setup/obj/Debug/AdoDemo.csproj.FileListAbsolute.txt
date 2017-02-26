@@ -1,0 +1,6 @@
+c:\users\hristina\documents\visual studio 2015\Projects\AdoDemo\AdoDemo\bin\Debug\AdoDemo.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\AdoDemo\AdoDemo\bin\Debug\AdoDemo.exe
+c:\users\hristina\documents\visual studio 2015\Projects\AdoDemo\AdoDemo\bin\Debug\AdoDemo.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\AdoDemo\AdoDemo\obj\Debug\AdoDemo.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\AdoDemo\AdoDemo\obj\Debug\AdoDemo.exe
+c:\users\hristina\documents\visual studio 2015\Projects\AdoDemo\AdoDemo\obj\Debug\AdoDemo.pdb

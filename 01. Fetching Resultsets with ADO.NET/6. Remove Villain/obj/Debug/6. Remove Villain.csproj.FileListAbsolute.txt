@@ -1,0 +1,6 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\6. Remove Villain\bin\Debug\_6.Remove_Villain.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\6. Remove Villain\bin\Debug\_6.Remove_Villain.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\6. Remove Villain\bin\Debug\_6.Remove_Villain.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\6. Remove Villain\obj\Debug\6. Remove Villain.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\6. Remove Villain\obj\Debug\_6.Remove_Villain.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\AdoDemo\6. Remove Villain\obj\Debug\_6.Remove_Villain.pdb

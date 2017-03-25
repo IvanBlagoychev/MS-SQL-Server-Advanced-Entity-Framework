@@ -1,0 +1,16 @@
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\_3.Sales_Database.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\_3.Sales_Database.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\_3.Sales_Database.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\EntityFramework.dll
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\EntityFramework.xml
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\3. Sales Database.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.Migrations.InitialCreate.resources
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\3. Sales Database.csproj.GenerateResource.Cache
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.Migrations.AddColumnDescriptionToProducts.resources
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.Migrations.AddDefaultValueSales.resources
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.Migrations.AddFirstNameAndLastName.resources
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\3. Sales Database\obj\Debug\_3.Sales_Database.Migrations.AddDefaultValueAgeInCustomers.resources

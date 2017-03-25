@@ -1,0 +1,10 @@
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\_2.Local_Store_Improvement.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\_2.Local_Store_Improvement.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\_2.Local_Store_Improvement.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\EntityFramework.dll
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\EntityFramework.xml
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\obj\Debug\_2.Local_Store_Improvement.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\obj\Debug\_2.Local_Store_Improvement.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Framework Code First\2. Local Store Improvement\obj\Debug\2. Local Store Improvement.csprojResolveAssemblyReference.cache

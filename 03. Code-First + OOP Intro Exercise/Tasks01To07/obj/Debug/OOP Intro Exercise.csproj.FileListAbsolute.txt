@@ -1,0 +1,3 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\bin\Debug\Code-First + OOP Intro Exercise.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\obj\Debug\Code-First + OOP Intro Exercise.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\obj\Debug\Code-First + OOP Intro Exercise.pdb

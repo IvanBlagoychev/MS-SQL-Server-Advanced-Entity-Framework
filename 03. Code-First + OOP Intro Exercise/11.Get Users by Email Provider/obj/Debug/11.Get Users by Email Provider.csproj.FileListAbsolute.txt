@@ -1,0 +1,10 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\11.Get Users by Email Provider.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\11.Get Users by Email Provider.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\11.Get Users by Email Provider.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\obj\Debug\11.Get Users by Email Provider.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\obj\Debug\11.Get Users by Email Provider.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\11.Get Users by Email Provider\obj\Debug\11.Get Users by Email Provider.pdb

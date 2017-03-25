@@ -1,0 +1,10 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\08.Create User.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\08.Create User.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\08.Create User.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\obj\Debug\08.Create User.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\obj\Debug\08.Create User.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\08.Create User\obj\Debug\08.Create User.pdb

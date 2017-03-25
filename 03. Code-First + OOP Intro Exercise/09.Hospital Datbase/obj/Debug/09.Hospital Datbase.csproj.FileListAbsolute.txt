@@ -1,0 +1,10 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\09.Hospital Datbase.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\09.Hospital Datbase.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\09.Hospital Datbase.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\obj\Debug\09.Hospital Datbase.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\obj\Debug\09.Hospital Datbase.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\09.Hospital Datbase\obj\Debug\09.Hospital Datbase.pdb

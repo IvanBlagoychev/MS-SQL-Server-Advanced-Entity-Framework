@@ -1,0 +1,6 @@
+c:\users\hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\bin\Debug\Code-First + OOP Intro Exercise.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\bin\Debug\Code-First + OOP Intro Exercise.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\bin\Debug\Code-First + OOP Intro Exercise.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\obj\Debug\Code-First + OOP Intro Exercise.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\obj\Debug\Code-First + OOP Intro Exercise.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\Code-First + OOP Intro Exercise\obj\Debug\Code-First + OOP Intro Exercise.pdb

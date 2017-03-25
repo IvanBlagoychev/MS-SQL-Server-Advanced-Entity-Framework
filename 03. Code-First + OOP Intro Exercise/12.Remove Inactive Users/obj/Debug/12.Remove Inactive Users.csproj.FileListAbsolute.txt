@@ -1,0 +1,9 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\12.Remove Inactive Users.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\12.Remove Inactive Users.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\12.Remove Inactive Users.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\obj\Debug\12.Remove Inactive Users.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\Code-First + OOP Intro Exercise\12.Remove Inactive Users\obj\Debug\12.Remove Inactive Users.pdb

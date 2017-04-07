@@ -1,0 +1,17 @@
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\Tasks5to10.exe.config
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\Tasks5to10.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\Tasks5to10.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.Migrations.InitialCreate.resources
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.csproj.GenerateResource.Cache
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.Migrations.AddAlbumsAndPictures.resources
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.Migrations.AddAlbumsAndPicturesv1.resources
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.Migrations.AddTags.resources
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.Migrations.AddTagsAndCollections.resources
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks5to10\obj\Debug\Tasks5to10.Migrations.AddRoles.resources

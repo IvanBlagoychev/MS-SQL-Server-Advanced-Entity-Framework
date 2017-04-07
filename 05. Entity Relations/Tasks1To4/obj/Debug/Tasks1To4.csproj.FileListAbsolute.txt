@@ -1,0 +1,13 @@
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\Tasks1To4.exe.config
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\Tasks1To4.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\Tasks1To4.pdb
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\EntityFramework.dll
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\EntityFramework.xml
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\obj\Debug\Tasks1To4.csprojResolveAssemblyReference.cache
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\obj\Debug\Tasks1To4.exe
+c:\users\hristina\documents\visual studio 2015\Projects\Entity Relations New\Tasks1To4\obj\Debug\Tasks1To4.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks1To4\obj\Debug\Tasks1To4.Migrations.AddLicense.resources
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks1To4\obj\Debug\Tasks1To4.csproj.GenerateResource.Cache
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Entity Relations New\Tasks1To4\obj\Debug\Tasks1To4.Migrations.AddLicenseContextDbSet.resources

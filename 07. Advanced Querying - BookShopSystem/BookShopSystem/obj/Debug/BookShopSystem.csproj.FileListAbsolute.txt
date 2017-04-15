@@ -1,0 +1,20 @@
+c:\users\hristina\documents\visual studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\BookShopSystem.exe.config
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\BookShopSystem.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\BookShopSystem.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\obj\Debug\BookShopSystem.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\obj\Debug\BookShopSystem.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\06. Entity Relations Advanced\BookShopSystem\obj\Debug\BookShopSystem.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.exe.config
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\obj\Debug\BookShopSystem.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\obj\Debug\BookShopSystem.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\BookShopSystem.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopSystem\obj\Debug\BookShopSystem.csprojResolveAssemblyReference.cache

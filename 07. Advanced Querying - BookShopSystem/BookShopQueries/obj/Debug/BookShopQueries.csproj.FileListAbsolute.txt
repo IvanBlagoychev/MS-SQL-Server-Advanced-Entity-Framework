@@ -1,0 +1,9 @@
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\bin\Debug\BookShopQueries.exe.config
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\bin\Debug\BookShopQueries.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\bin\Debug\BookShopQueries.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\bin\Debug\BookShopSystem.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\bin\Debug\BookShopSystem.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\obj\Debug\BookShopQueries.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\obj\Debug\BookShopQueries.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\BookShopQueries\obj\Debug\BookShopQueries.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\SoftUniQueries.exe.config
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\SoftUniQueries.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\SoftUniQueries.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\obj\Debug\SoftUniQueries.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\obj\Debug\SoftUniQueries.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\SoftUniQueries\obj\Debug\SoftUniQueries.pdb

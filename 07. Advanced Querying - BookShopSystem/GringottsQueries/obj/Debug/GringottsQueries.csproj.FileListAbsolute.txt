@@ -1,0 +1,9 @@
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\GringottsQueries.exe.config
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\GringottsQueries.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\GringottsQueries.pdb
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\obj\Debug\GringottsQueries.exe
+C:\Users\Hristina\Desktop\07. Advanced Querying - BookShopSystem\GringottsQueries\obj\Debug\GringottsQueries.pdb

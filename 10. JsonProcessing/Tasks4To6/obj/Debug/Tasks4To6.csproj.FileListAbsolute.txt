@@ -1,0 +1,12 @@
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\Tasks4To6.exe.config
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\Tasks4To6.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\Tasks4To6.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\obj\Debug\Tasks4To6.exe
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\obj\Debug\Tasks4To6.pdb
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\obj\Debug\Tasks4To6.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hristina\documents\visual studio 2015\Projects\JsonProcessing\Tasks4To6\bin\Debug\Newtonsoft.Json.xml

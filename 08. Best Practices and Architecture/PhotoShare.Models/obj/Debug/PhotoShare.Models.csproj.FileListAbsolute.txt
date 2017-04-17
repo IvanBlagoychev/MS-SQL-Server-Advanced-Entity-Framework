@@ -1,0 +1,5 @@
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Models\bin\Debug\PhotoShare.Models.dll
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Models\bin\Debug\PhotoShare.Models.pdb
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Models\obj\Debug\PhotoShare.Models.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Models\obj\Debug\PhotoShare.Models.dll
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Models\obj\Debug\PhotoShare.Models.pdb

@@ -1,0 +1,18 @@
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\PhotoShare.Client.pdb
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\PhotoShare.Models.dll
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\PhotoShare.Models.pdb
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\Users\Hristina\Desktop\Нова папка\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb
+C:\Users\Hristina\Desktop\Best Practices and Architecture\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Users\Hristina\Desktop\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\Users\Hristina\Desktop\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Best Practices and Architecture\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Best Practices and Architecture\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb

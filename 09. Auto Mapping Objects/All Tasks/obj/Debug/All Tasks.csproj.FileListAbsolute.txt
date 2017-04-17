@@ -1,0 +1,12 @@
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\All Tasks.exe.config
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\All Tasks.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\All Tasks.pdb
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\AutoMapper.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\EntityFramework.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\AutoMapper.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\EntityFramework.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\obj\Debug\All Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\obj\Debug\All Tasks.exe
+C:\Users\Hristina\Documents\Visual Studio 2015\Projects\Auto Mapping Objects\All Tasks\obj\Debug\All Tasks.pdb

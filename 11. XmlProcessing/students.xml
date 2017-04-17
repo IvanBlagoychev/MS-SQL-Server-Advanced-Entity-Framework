@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <name>Pesho Burkalkata</name>
+    <gender>Male</gender>
+    <birhDate>01/02/2000</birhDate>
+    <phoneNumber>0888123456</phoneNumber>
+    <email>pesho@softuniLegends.bg</email>
+    <university>Software University</university>
+    <speciality>Legend Masters</speciality>
+    <facultyNumber>123</facultyNumber>
+    <exams>
+      <exam>
+        <title>Programing Basics</title>
+        <dateTaken>16/04/2016</dateTaken>
+        <grade>5.0</grade>
+      </exam>
+      <exam>
+        <title>Software Technologies</title>
+        <dateTaken>20/08/2016</dateTaken>
+        <grade>6.0</grade>
+      </exam>
+      <exam>
+        <title>JS Fundamentals</title>
+        <dateTaken>11/10/2016</dateTaken>
+        <grade>4.50</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Kolio Mamata</name>
+    <gender>Male</gender>
+    <birhDate>20/11/1992</birhDate>
+    <phoneNumber>0888789456</phoneNumber>
+    <email>kolio@softuni.bg</email>
+    <university>Software University</university>
+    <speciality>Java</speciality>
+    <facultyNumber>456</facultyNumber>
+    <exams>
+      <exam>
+        <title>Programing Basics</title>
+        <dateTaken>16/04/2016</dateTaken>
+        <grade>5.0</grade>
+      </exam>
+      <exam>
+        <title>Spring MVC</title>
+        <dateTaken>13/05/2016</dateTaken>
+        <grade>6.0</grade>
+      </exam>
+      <exam>
+        <title>JS Advanced</title>
+        <dateTaken>19/11/2016</dateTaken>
+        <grade>6.0</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Mimi Mimkova</name>
+    <gender>Female</gender>
+    <birhDate>15/12/1995</birhDate>
+    <phoneNumber>0888321987</phoneNumber>
+    <email>mimi@mail.bg</email>
+    <university>University Of Economics - Varna</university>
+    <speciality>Informatics</speciality>
+    <facultyNumber>111089</facultyNumber>
+    <exams>
+      <exam>
+        <title>Operation systems</title>
+        <dateTaken>09/01/2017</dateTaken>
+        <grade>5.5</grade>
+      </exam>
+      <exam>
+        <title>Programing Basics</title>
+        <dateTaken>20/01/2017</dateTaken>
+        <grade>4.0</grade>
+      </exam>
+      <exam>
+        <title>Matematics</title>
+        <dateTaken>17/01/2017</dateTaken>
+        <grade>3.50</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

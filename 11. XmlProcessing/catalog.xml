@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Back in Black</name>
+    <artist>ACDC</artist>
+    <year>1980 </year>
+    <producer>John Lang</producer>
+    <price>50.00</price>
+    <songs>
+      <song>
+        <title>Hells Bells</title>
+        <duration>5:12</duration>
+      </song>
+      <song>
+        <title>Shoot to Thrill</title>
+        <duration>5:17</duration>
+      </song>
+      <song>
+        <title>Back in Black</title>
+        <duration>4:15</duration>
+      </song>
+      <song>
+        <title>You Shook Me All Night Long</title>
+        <duration>3:30</duration>
+      </song>
+      <song>
+        <title>What Do You Do for Money Honey</title>
+        <duration>3:35</duration>
+      </song>
+      <song>
+        <title>Givin' the Dog a Bone</title>
+        <duration>3:32</duration>
+      </song>
+      <song>
+        <title>Rock and Roll Ain't Noise Pollution</title>
+        <duration>4:15</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Rising</name>
+    <artist>Rainbow</artist>
+    <year>1976 </year>
+    <producer>Roger David Glover</producer>
+    <price>30.00</price>
+    <songs>
+      <song title ="Tarot Woman" duration="5:58"></song>
+      <song title ="Run With the Wolf" duration="3:48"></song>
+      <song title ="Starstruck" duration="4:06"></song>
+      <song title ="Do You Close Your Eyes" duration="2:58"></song>
+      <song title ="Stargazer" duration="8:26"></song>
+      <song title ="Light in the Black" duration="8:12"></song>
+    </songs>
+</album>
+  <album>
+    <name>Love At First Sting</name>
+    <artist>Scorpions</artist>
+    <year>1984 </year>
+    <producer>Dieter Dierks</producer>
+    <price>45.00</price>
+    <songs>
+      <song title ="Bad Boys Running Wild" duration="3:54"></song>
+      <song title ="Rock You Like a Hurricane" duration="4:11"></song>
+      <song title ="I'm Leaving You" duration="4:16"></song>
+      <song title ="Coming Home" duration="4:58"></song>
+      <song title ="Big City Nights" duration="4:08"></song>
+      <song title ="Light in the Black" duration="8:12"></song>
+      <song title ="Crossfire" duration="4:31"></song>
+      <song title ="Still Loving You" duration="6:26"></song>
+      <song title ="Same Thrill" duration="3:30"></song>
+    </songs>
+  </album>
+</albums>

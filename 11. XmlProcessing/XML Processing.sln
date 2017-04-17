@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1and2xmlFiles", "Task1and2xmlFiles", "{167CE167-A5A3-4664-81B4-00A68C54A469}"
+	ProjectSection(SolutionItems) = preProject
+		catalog.xml = catalog.xml
+		students.xml = students.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks3and4", "Tasks3and4\Tasks3and4.csproj", "{EA037EED-362B-44F8-97C9-5EA6CFE7F9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks5and6", "Tasks5and6\Tasks5and6.csproj", "{971DD9E5-EED0-4B21-B06C-76F309E8613A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA037EED-362B-44F8-97C9-5EA6CFE7F9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA037EED-362B-44F8-97C9-5EA6CFE7F9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA037EED-362B-44F8-97C9-5EA6CFE7F9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA037EED-362B-44F8-97C9-5EA6CFE7F9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971DD9E5-EED0-4B21-B06C-76F309E8613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971DD9E5-EED0-4B21-B06C-76F309E8613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971DD9E5-EED0-4B21-B06C-76F309E8613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971DD9E5-EED0-4B21-B06C-76F309E8613A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
